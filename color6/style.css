@@ -1,0 +1,48 @@
+body {
+    background: url(ka.jpg) ;
+    background-size: cover;
+    display: flex;
+}
+
+#left {
+    height: 100vh;
+    width: 50vw;
+}
+
+#color1 {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: #9D896C;
+    line-height: 65px;
+    font-size: 30px;
+    right: 975px;
+    top: 190px;
+    position: absolute;
+}
+
+#right {
+    height: 100vh;
+    width: 50vw;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    padding: 70px;
+}
+p{
+    font-size: 25px;
+    padding: 30px;
+}
+h2{
+    font-size: 30px;
+/*    text-align: center;*/
+    padding: 0px;
+}
+h3{
+    font-size: 20px;
+/*    text-align: center;*/
+    padding: 0px;
+}
+
