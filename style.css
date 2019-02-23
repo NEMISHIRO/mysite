@@ -149,7 +149,7 @@ a{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color:   #CAE5CD;
+    background-color:   #C7DC68;
     line-height: 65px;
     font-size: 35px;
     right:262px;
@@ -210,6 +210,7 @@ a{
     right:1051px;
     top: 2002px;
     position: absolute;
+    margin-bottom:300px;
 }
 #color18 {
     width: 150px;
@@ -243,4 +244,21 @@ a{
     right:328px;
     top: 2002px;
     position: absolute;
+}
+
+#main{
+    width: 608px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px;
+    float: left;
+}
+.container{
+    width: 2px;
+    
+        margin: 0 auto;
+    font-size: 40px;
+    color: #79520B;
+  font-style:oblique;
+    
 }
